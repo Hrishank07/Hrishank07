@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Hrishank07
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in all sorts of coding and action
+- 🌱 I’m currently learning various things
+- 💞️ I’m looking to collaborate with other people
+- 📫 How to reach me? 
+  -reach me on hrishnakc@gmail.com
 
 <!---
 Hrishank07/Hrishank07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
