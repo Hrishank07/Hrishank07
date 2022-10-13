@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning various things
 - 💞️ I’m looking to collaborate with other people
 - 📫 How to reach me? 
-  -reach me on hrishnakc@gmail.com
+  -reach me on hrishankc@gmail.com
 
 <!---
 Hrishank07/Hrishank07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
