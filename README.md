@@ -1,62 +1,37 @@
-# 👋 Hey there, I'm Hrishank Chhhatbar!  
+# Hrishank Chhatbar
+### Cloud & Backend Engineer | AWS | Distributed Systems
 
-### 📊 Data & Business Insights | 🛠️ Software Development | 🚀 Aspiring Data Professional  
-
-Welcome to my GitHub profile! I'm currently a **Master’s student in Engineering Management at USC**, passionate about **data analytics, business intelligence, and software development**. My goal is to bridge the gap between data and decision-making, helping businesses derive valuable insights through **data-driven strategies, machine learning, and automation**.  
-
----
-
-## 🔍 **What I'm currently working on**  
-
-- 📊 Developing **data-driven business insights** to optimize decision-making and strategy.  
-- 🏆 Working on **predictive modeling and forecasting** using Python and R.  
-- 🚀 Exploring **software development** to enhance automation in business intelligence.  
-- 🤖 Learning and implementing **AI-driven analytics and machine learning models**.  
+I build and operate scalable, high-availability backend services and cloud infrastructure. My experience is rooted in solving core reliability and performance challenges at scale at **Amazon Web Services (AWS)** on the Lambda platform. I specialize in the Java & Python ecosystems, serverless architecture, and Infrastructure as Code.
 
 ---
 
-## 📚 **What I'm learning**  
+###  toolbox.md
 
-- 🛠️ Advanced **SQL & database optimization** for structured and unstructured data.  
-- 🌎 **Business analytics & financial modeling** for data-driven decision-making.  
-- 🧠 Deepening my knowledge in **Data Science, Machine Learning, and NLP**.  
-- 📈 Enhancing **data visualization & dashboarding** skills using Tableau, Power BI, and Python libraries.  
-
----
-
-## 🤝 **Looking to collaborate on**  
-
-- **📊 Data Analytics & Business Intelligence** – If you're working on real-world data-driven solutions, I'd love to contribute!  
-- **💡 Open-Source Projects** related to Python, SQL, ML, or software automation.  
-- **📈 Market & Financial Data Analysis** – Analyzing economic, business, and financial trends using data science techniques.  
-- **🚀 Software Development** – Working on **full-stack applications** that integrate business intelligence and automation.  
+| Backend                               | Cloud & Infrastructure                          | Databases         |
+| :------------------------------------ | :---------------------------------------------- | :---------------- |
+| Java (Spring Boot)                    | AWS (Lambda, DynamoDB, S3, API Gateway)         | MySQL, MSSQL      |
+| Python                                | Terraform (IaC)                                 | SQL               |
+| Node.js                               | Docker                                          | NoSQL             |
+| Microservices & REST APIs             | CI/CD (Jenkins, Git)                            |                   |
 
 ---
 
-## 💡 **Technical Skills**  
+### pinned_projects.md
 
-### **Programming & Tools**  
-- 🐍 Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn)  
-- 🗃️ SQL (PostgreSQL, MySQL) & NoSQL (MongoDB)  
-- 📊 Data Visualization (Tableau, Power BI, Matplotlib, Seaborn)  
-- 🔍 Business Analytics & Forecasting (Excel, R, Python)  
-- 🤖 Machine Learning & AI (Scikit-Learn, TensorFlow, NLP)  
-- 🌐 Software Development (Next.js, React.js, Node.js)  
+Below are my featured projects. For a full list, please review my repositories.
 
----
+1.  **AI-Powered Document Q&A Service** `[Python, AWS Bedrock, Lambda, Terraform, Docker]`
+    *   Architected and deployed a serverless RAG pipeline on AWS, authoring the complete Infrastructure as Code (IaC) from scratch using Terraform.
 
-## 📬 **How to Reach Me**  
+2.  **Serverless Resume Analysis API** `[Python, OpenAI, API Gateway, Lambda, Terraform]`
+    *   Engineered a high-throughput RESTful API using a fully automated serverless backend, enabling one-command setup and teardown with Terraform.
 
-Feel free to connect with me on:  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrishankk/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=web&logoColor=white)](https://github.com/Hrishank07)  
-[![Email](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hchhatba@usc.edu)  
+3.  **[Your Next Best Technical Project]** `[Language, Framework, Cloud Service]`
+    *   [One-sentence C-A-R description: e.g., "Built a full-stack security application using a MEAN stack to secure access for over 500 users."]
 
 ---
 
-## 🎯 **Fun Fact**  
+### contact.md
 
-📊 **90% of the world's data** has been created in the last two years! Data is everywhere, and I'm on a mission to **transform it into meaningful insights** that drive **business success** and **software innovation**!  
-
-Thanks for stopping by, and feel free to explore my repositories! 🚀✨  
+*   **LinkedIn:** [linkedin.com/in/hrishankk](https://www.linkedin.com/in/hrishankk/)
+*   **Email:** hchhatba@usc.edu
